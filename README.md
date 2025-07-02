@@ -1,0 +1,1 @@
+Este trabalho de conclusão de curso (Desenvolvimento de Sistemas) foi realizado na Etec de Guarulhos no ano de 2024. Resumidamente é um sistema onde a chamada do aluno na sala de aula pode ser feita através da biometria.
